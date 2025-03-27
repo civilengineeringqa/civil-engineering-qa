@@ -1,4 +1,4 @@
-HEAD
+
 # Logs
 logs
 *.log
@@ -170,4 +170,4 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
-0466139 (Initial commit)
+

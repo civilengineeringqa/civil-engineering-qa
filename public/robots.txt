@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://engineering-qa.vercel.app/
+
+# Sitemaps
+Sitemap: https://engineering-qa.vercel.app/sitemap.xml

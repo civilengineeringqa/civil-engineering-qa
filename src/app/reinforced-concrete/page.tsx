@@ -1,5 +1,6 @@
 // src/app/reinforced-concrete/page.tsx
-'use client'; // Ensures this page is treated as a client component
+import React from "react";
+
 
 import Link from "next/link";
 
